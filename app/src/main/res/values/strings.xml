@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shared</string>
+    <string name="Nombre">Nombre</string>
+    <string name="CC">Cedula</string>
+    <string name="Tel">Telefono</string>
+    <string name="User">Usuario</string>
+    <string name="Pass">Contraseña</string>
+</resources>
